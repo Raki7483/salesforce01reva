@@ -3,7 +3,7 @@ package corejava;
 public class access2 {
 	public int a=9;
 	protected  
-	public void display() {
+	public display() {
 		System.out.println("welcome");
 		
 	}
